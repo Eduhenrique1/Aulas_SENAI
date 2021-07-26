@@ -2,6 +2,7 @@ body{
 /* margin-left: 5%; */
 margin-top: 3%;
 background-color: rgba(234,244,244);
+
 }
 
 .viagens{
@@ -57,7 +58,7 @@ background-color: rgba(234,244,244);
 .imgzinha_d{
     width: 13%;  
     position: fixed;
-    right: 75%;
+    right: 81%;
     bottom: 9%;
 }
 
